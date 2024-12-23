@@ -3,14 +3,14 @@
 
 [![Download](https://img.shields.io/github/downloads/ImaterialC/PriconneRe-TL/total.svg?color=brightgreen&label=download&style=flat)](https://github.com/ImaterialC/PriconneRe-TL/releases/latest "Download") [![Discord](https://img.shields.io/discord/967648014497890325?color=blue&labelColor=555555&label=discord&logo=discord&style=flat)](https://discord.gg/vZjAy67KpB "Discord") [![BepInEx](https://img.shields.io/badge/-BepInEx-yellow.svg?logo=unity&labelColor=555555&style=flat)](https://github.com/BepInEx/BepInEx "BepInEx") [![AutoTranslator](https://img.shields.io/badge/-AutoTranslator-orange.svg?logo=unity&labelColor=555555&style=flat)](https://github.com/bbepis/XUnity.AutoTranslator "AutoTranslator") [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Donate](https://img.shields.io/badge/_-donate-red.svg?logo=githubsponsors&labelColor=555555&style=flat)](#-donation "Donate")
 
-<i>An English patch for Princess Connect! ReDive JP server</i>
+<i>An Vietnamese patch for Princess Connect! ReDive JP server Forked from Englisth patch</i>
 </h2>
 
 ---
 
 ⚠️ **Warning:** _Please use it at your own risk!!  We are not responsible for any actions taken toward your account if you use this translation tool_
 
-Priconne Re: TL is an unofficial English UI patch for [Cygames' Princess Connect Re: Dive JP](https://dmg.priconne-redive.jp/). This project's main focus is translating the game's user interface into English so non-Japanese people can play it easier.
+Priconne Re: TL is an unofficial Vietnamese UI patch for [Cygames' Princess Connect Re: Dive JP](https://dmg.priconne-redive.jp/). This project's main focus is translating the game's user interface into Vietnamese so non-Japanese people can play it easier.
 
 _Any help and contributions are welcome!_
 
